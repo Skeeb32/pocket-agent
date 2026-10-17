@@ -1,0 +1,7 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.pocket-agent/
+coverage/
+.DS_Store
